@@ -1,1 +1,34 @@
-# Credit-Risk-Modeling
+Lorsqu'une banque prête de l'argent à une personne, elle prend le risque que cette dernière ne rembourse pas cet argent dans le délai convenu. Ce risque est appelé **Risque de Crédit**. Alors avant d'octroyer un crédit, les banques vérifient si le client (ou la cliente) qui demandent un prêt sera capable ou pas de le rembourser. Cette vérification se fait grâce à l'analyse de plusieurs paramètres tels que les revenus, les biens, les dépenses actuelles du client, etc. Cette analyse est encore effectuée manuellement par plusieurs banques. Ainsi, elle est très consommatrice en temps et en ressources financières. 
+
+Grâce au **Machine Learning**, il est possible d'automatiser cette tâche et de pouvoir prédire avec plus de précision les clients qui seront en défaut de paiement. 
+
+# Projet 1 : Machine Learning pour la modélisation du Risque de crédit (Credit Scoring) dans R
+
+Ce projet est hébergé sur mon site web https://afouda-datascience.com
+
+Il s'agit d'une formation que j'ai conçue et à travers laquelle vous apprendrez à construire et évaluer un modèle de Machine Learning pour prédire si un demandeur de crédit sera en défaut de paiement ou non. 
+
+A travers cette formation, vous développerez vos compétences en :
+
+✅ programmation avec le langage R (création de fonctions, boucle for, structure if,  ggplot2, etc.) ;
+
+✅ analyse statistique et visualisation des données en utilisant la célèbre librairie Tidyverse ;
+
+✅ Machine Learning (Modèles GLM, Stepwie Regression Model, librairie pROC, etc.).
+Lien de la formation : https://afouda-datascience.com/cours/machine-learning-pour-la-modelisation-du-risque-de-credit-credit-scoring-dans-r/
+
+Rejoignez-moi vite dans la formation 🙂.
+
+# Projet 2 : Analyse exploratoire des données sur le risque de crédit dans Python
+
+Ce projet est un cours que je vais bientôt publié sous forme d'une vidéo sur ma chaîne YouTube J.A DATATECH CONSULTING : https://www.youtube.com/c/JADATATECHCONSULTING
+
+Dans ce cours, vous apprendrez à effectuer une analyse approfondie de vos ensembles de données afin de découvrir les informations (***insights***) qu'elles contiennent.
+
+# Projet 3 : Utilisation de Machine Learning Automatisé dans Azure ML pour la construction d'un modèle capable de prédire si un demandeur de crédit bancaire pourra ou non rembourser le prêt (projet en cours)
+
+- Je vais construire le modèle en utilisant la fonctionnalité Machine Learning Automatisé de Microsoft Azure Machine Learning ;
+
+- Je vais déployer le modèle en tant que service prédictif 
+
+- Pour finir, je vais simuler une application cliente développée avec Streamlit (framework Python pour le développement d'applications web) qui va utiliser le modèle déployé pour effectuer de nouvelles prédictions.
