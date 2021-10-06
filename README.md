@@ -25,10 +25,19 @@ Ce projet est un cours que je vais bientôt publié sous forme d'une vidéo sur 
 
 Dans ce cours, vous apprendrez à effectuer une analyse approfondie de vos ensembles de données afin de découvrir les informations (***insights***) qu'elles contiennent.
 
-# Projet 3 : Utilisation de Machine Learning Automatisé dans Azure ML pour la construction d'un modèle capable de prédire si un demandeur de crédit bancaire pourra ou non rembourser le prêt (projet en cours)
+# Projet 3 : Utilisation de Machine Learning Automatisé dans Azure ML pour la construction d'un modèle capable de prédire si un demandeur de crédit bancaire pourra ou non rembourser le prêt
 
-- Je vais construire le modèle en utilisant la fonctionnalité Machine Learning Automatisé de Microsoft Azure Machine Learning ;
+- Construction d'un modèle en utilisant la fonctionnalité Machine Learning Automatisé de Microsoft Azure Machine Learning ;
 
-- Je vais déployer le modèle en tant que service prédictif 
+- Déploiement du modèle en tant que service prédictif 
 
-- Pour finir, je vais simuler une application cliente développée avec Streamlit (framework Python pour le développement d'applications web) qui va utiliser le modèle déployé pour effectuer de nouvelles prédictions.
+- Simulation d'une application cliente développée avec Streamlit (framework Python pour le développement d'applications web) qui va utiliser le modèle déployé pour effectuer de nouvelles prédictions
+
+
+# Projet 4 : Intégration dans Shinydashboard d'un modèle de Machine Learning pour la prédiction du Risque de Crédit bancaire.
+
+- Construstion d'un modèle de forêt aléatoir pour modéliser la probabilité de défaut de paiement et prédire si un demandeur de prêt pourra ou non rembourser son crédit.
+- 
+- Déploiement du modèle dans une application web type tableau de bord qui affiche la probabilité de défaut de paiement d'un nouveau demandeur de crédit ainsi que son statut (Eligible ou non Eligible au crédit.)
+
+
