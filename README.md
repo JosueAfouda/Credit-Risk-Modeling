@@ -15,7 +15,7 @@ A travers cette formation, vous développerez vos compétences en :
 ✅ analyse statistique et visualisation des données en utilisant la célèbre librairie Tidyverse ;
 
 ✅ Machine Learning (Modèles GLM, Stepwie Regression Model, librairie pROC, etc.).
-Lien de la formation : https://afouda-datascience.com/cours/machine-learning-pour-la-modelisation-du-risque-de-credit-credit-scoring-dans-r/
+Lien de la formation : https://youtube.com/playlist?list=PLmJWMf9F8euTlCGNR9OQgUzvXmB3aCc3G
 
 Rejoignez-moi vite dans la formation 🙂.
 
