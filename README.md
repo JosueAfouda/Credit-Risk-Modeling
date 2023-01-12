@@ -4,7 +4,7 @@ Grâce au **Machine Learning**, il est possible d'automatiser cette tâche et de
 
 # Projet 1 : Machine Learning pour la modélisation du Risque de crédit (Credit Scoring) dans R
 
-Ce projet est hébergé sur mon site web https://afouda-datascience.com
+Cette formation est hébergée sur ma chaîne YouTube : https://youtube.com/playlist?list=PLmJWMf9F8euTlCGNR9OQgUzvXmB3aCc3G
 
 Il s'agit d'une formation que j'ai conçue et à travers laquelle vous apprendrez à construire et évaluer un modèle de Machine Learning pour prédire si un demandeur de crédit sera en défaut de paiement ou non. 
 
@@ -40,4 +40,7 @@ Dans ce cours, vous apprendrez à effectuer une analyse approfondie de vos ensem
 - 
 - Déploiement du modèle dans une application web type tableau de bord qui affiche la probabilité de défaut de paiement d'un nouveau demandeur de crédit ainsi que son statut (Eligible ou non Eligible au crédit.)
 
+Trouvez la vidéo de ce projet sur ma chaîne YouTube : https://youtu.be/uU4kjctCFDw
+
+Mercide vous abonner à ma chaîne YouTue, de liker et de partarger mes vidéos : https://www.youtube.com/channel/UCpd56FfjlkKbkHlbgY6XE3w
 
