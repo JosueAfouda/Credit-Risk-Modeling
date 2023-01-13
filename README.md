@@ -21,7 +21,7 @@ Rejoignez-moi vite dans la formation 🙂.
 
 # Projet 2 : Analyse exploratoire des données sur le risque de crédit dans Python
 
-Ce projet est un cours que je vais bientôt publié sous forme d'une vidéo sur ma chaîne YouTube J.A DATATECH CONSULTING : https://www.youtube.com/c/JADATATECHCONSULTING
+Ce projet est un cours disponible sous forme d'une vidéo sur ma chaîne YouTube J.A DATATECH CONSULTING : https://youtu.be/k8pifdQjtEA
 
 Dans ce cours, vous apprendrez à effectuer une analyse approfondie de vos ensembles de données afin de découvrir les informations (***insights***) qu'elles contiennent.
 
@@ -29,9 +29,11 @@ Dans ce cours, vous apprendrez à effectuer une analyse approfondie de vos ensem
 
 - Construction d'un modèle en utilisant la fonctionnalité Machine Learning Automatisé de Microsoft Azure Machine Learning ;
 
-- Déploiement du modèle en tant que service prédictif 
+- Déploiement du modèle en tant que service prédictif ;
 
-- Simulation d'une application cliente développée avec Streamlit (framework Python pour le développement d'applications web) qui va utiliser le modèle déployé pour effectuer de nouvelles prédictions
+- Simulation d'une application cliente développée avec Streamlit (framework Python pour le développement d'applications web) qui va utiliser le modèle déployé pour effectuer de nouvelles prédictions.
+
+Voici la vidéo de ce projet : 
 
 
 # Projet 4 : Intégration dans Shinydashboard d'un modèle de Machine Learning pour la prédiction du Risque de Crédit bancaire.
