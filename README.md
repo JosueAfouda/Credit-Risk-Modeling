@@ -33,7 +33,7 @@ Dans ce cours, vous apprendrez à effectuer une analyse approfondie de vos ensem
 
 - Simulation d'une application cliente développée avec Streamlit (framework Python pour le développement d'applications web) qui va utiliser le modèle déployé pour effectuer de nouvelles prédictions.
 
-Voici la vidéo de ce projet : 
+Voici la vidéo de ce projet : https://youtu.be/OGqx0VOn1yg
 
 
 # Projet 4 : Intégration dans Shinydashboard d'un modèle de Machine Learning pour la prédiction du Risque de Crédit bancaire.
