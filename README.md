@@ -33,6 +33,8 @@ Dans ce cours, vous apprendrez à effectuer une analyse approfondie de vos ensem
 
 # Projet 3 : Utilisation de Machine Learning Automatisé dans Azure ML pour la construction d'un modèle capable de prédire si un demandeur de crédit bancaire pourra ou non rembourser le prêt
 
+![](https://i9.ytimg.com/vi_webp/OGqx0VOn1yg/mqdefault.webp?v=63c11507&sqp=CIif8p8G&rs=AOn4CLB44h6y4QLAx74EDPMVcbVNEf8wHw)
+
 - Construction d'un modèle en utilisant la fonctionnalité Machine Learning Automatisé de Microsoft Azure Machine Learning ;
 
 - Déploiement du modèle en tant que service prédictif ;
