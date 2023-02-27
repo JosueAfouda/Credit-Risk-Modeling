@@ -25,6 +25,8 @@ Rejoignez-moi vite dans la formation 🙂.
 
 # Projet 2 : Analyse exploratoire des données sur le risque de crédit dans Python
 
+![](https://i9.ytimg.com/vi/k8pifdQjtEA/mqdefault.jpg?v=63bffbd2&sqp=CKyT8p8G&rs=AOn4CLBz2x5b9Vtn8j4XYEYKWVLVspsDyg)
+
 Ce projet est un cours disponible sous forme d'une vidéo sur ma chaîne YouTube J.A DATATECH CONSULTING : https://youtu.be/k8pifdQjtEA
 
 Dans ce cours, vous apprendrez à effectuer une analyse approfondie de vos ensembles de données afin de découvrir les informations (***insights***) qu'elles contiennent.
