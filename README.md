@@ -46,6 +46,8 @@ Voici la vidéo de ce projet : https://youtu.be/OGqx0VOn1yg
 
 # Projet 4 : Intégration dans Shinydashboard d'un modèle de Machine Learning pour la prédiction du Risque de Crédit bancaire.
 
+![](https://i9.ytimg.com/vi/uU4kjctCFDw/mqdefault.jpg?v=61618c96&sqp=CIif8p8G&rs=AOn4CLD1h5rjkLN-5BL1TDvcd-AcBtNTHQ)
+
 - Construstion d'un modèle de forêt aléatoir pour modéliser la probabilité de défaut de paiement et prédire si un demandeur de prêt pourra ou non rembourser son crédit.
 - 
 - Déploiement du modèle dans une application web type tableau de bord qui affiche la probabilité de défaut de paiement d'un nouveau demandeur de crédit ainsi que son statut (Eligible ou non Eligible au crédit.)
